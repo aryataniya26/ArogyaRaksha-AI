@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "797831544947",
+    "project_id": "internship-ee68d",
+    "storage_bucket": "internship-ee68d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797831544947:android:12e288c3e1a504bd962a06",
+        "android_client_info": {
+          "package_name": "com.example.arogyaraksha_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797831544947-19k9ntv8nohs18pgdjh37847ua4cr9a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arogyaraksha_ai",
+            "certificate_hash": "55a15451a865dbbe82a6ab3af96cef0e214d3633"
+          }
+        },
+        {
+          "client_id": "797831544947-gvlluth1rhal9g8r770v7en9qmcu5f3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VxsXx1gNawnYhEH2IpLGCX_25dqfeLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797831544947-gvlluth1rhal9g8r770v7en9qmcu5f3p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797831544947-1kkmbg3e3eenvk5kdhh3eha2ua8f9lup.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arogyarakshaAi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797831544947:android:913339c6447e5fe4962a06",
+        "android_client_info": {
+          "package_name": "com.example.wedding_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797831544947-iprpd7lcsg9prq9thgtk6pdpdj0f7mhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wedding_planner",
+            "certificate_hash": "55a15451a865dbbe82a6ab3af96cef0e214d3633"
+          }
+        },
+        {
+          "client_id": "797831544947-gvlluth1rhal9g8r770v7en9qmcu5f3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VxsXx1gNawnYhEH2IpLGCX_25dqfeLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797831544947-gvlluth1rhal9g8r770v7en9qmcu5f3p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797831544947-1kkmbg3e3eenvk5kdhh3eha2ua8f9lup.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arogyarakshaAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
