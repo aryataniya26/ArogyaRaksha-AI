@@ -53,10 +53,6 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
 
-
-
-
-
   final List<Widget> _screens = [
     const _DashboardScreen(),
     const EmergencyHistoryScreen(),

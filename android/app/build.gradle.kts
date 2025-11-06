@@ -12,11 +12,10 @@ android {
 
     namespace = "com.example.arogyaraksha_ai" // ✅ App's namespace
     compileSdk = 36
-    ndkVersion = "27.0.12077973"
-
+    buildToolsVersion = "34.0.0"
     defaultConfig {
         applicationId = "com.example.arogyaraksha_ai"
-        minSdk = 24
+        minSdk = flutter.minSdkVersion
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"
@@ -30,13 +29,13 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility = org.gradle.api.JavaVersion.VERSION_1_8
-        targetCompatibility = org.gradle.api.JavaVersion.VERSION_1_8
+        sourceCompatibility = org.gradle.api.JavaVersion.VERSION_17
+        targetCompatibility = org.gradle.api.JavaVersion.VERSION_17
         isCoreLibraryDesugaringEnabled = true
     }
 
     kotlinOptions {
-        jvmTarget = "1.8"
+        jvmTarget = "17"
     }
 
     buildFeatures {
